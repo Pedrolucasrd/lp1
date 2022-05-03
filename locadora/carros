@@ -1,0 +1,32 @@
+package lp1
+
+import java.until.ArrayList;
+
+import java.util.Scanner;
+
+public class Carros
+  public static void main (String[] ergs
+    ArrayList<Carro> ListaDeCarros = new ArrayList <>();
+  
+    Carro C1 = new Carro();
+    Carro C2 = new Carro();
+    Carro C3 = new Carro();
+    
+  Scanner input = new Scanner(System.in);
+  
+    C1.setNome ("");
+    C1.setCor ("");
+    C1.setAno ();
+    
+    C2.setNome ("");
+    C2.setCor ("");
+    C2.setAno ();
+    
+    C3.setNome ("");
+    C3.setCor ("");
+    C3.setAno ();
+    
+    ListaDeCarros.add (C1);
+    ListaDeCarros.add (C2);
+    ListaDeCarros.add (C3);
+    
